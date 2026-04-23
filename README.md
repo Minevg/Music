@@ -1,32 +1,32 @@
 # Zcash Music
 
-Colecao de musicas da Zcash criadas com IA para download.
+Collection of Zcash songs created with AI and shared for download.
 
-## Sobre
+## About
 
-Este repositorio reune faixas inspiradas no universo da Zcash, produzidas com apoio de inteligencia artificial.
+This repository brings together tracks inspired by the Zcash universe, produced with the support of artificial intelligence.
 
-Aqui voce pode:
+Here you can:
 
-- ouvir as musicas disponiveis
-- baixar os arquivos diretamente do GitHub
-- compartilhar o link do repositorio com outras pessoas
+- listen to the available songs
+- download the files directly from GitHub
+- share the repository link with other people
 
-## Como baixar
+## How to Download
 
-1. Abra a lista de arquivos do repositorio.
-2. Clique na musica desejada.
-3. Clique em `Download raw file` ou abra o arquivo bruto.
-4. Salve no seu computador ou celular.
+1. Open the repository file list.
+2. Click the song you want.
+3. Click `Download raw file` or open the raw file.
+4. Save it to your computer or phone.
 
-## Arquivos disponiveis
+## Available Files
 
-- `Zcash Firme na Missão.mp3`
+- `Zcash Strong on the Mission.mp3`
 
-## Observacao
+## Note
 
-As musicas deste repositorio foram criadas com IA e organizadas para distribuicao digital.
+The songs in this repository were created with AI and organized for digital distribution.
 
-## Creditos
+## Credits
 
-Projeto dedicado a musicas da comunidade Zcash.
+Project dedicated to music for the Zcash community.
