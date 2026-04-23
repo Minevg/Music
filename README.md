@@ -1,6 +1,6 @@
 # Zcash Music
 
-Collection of Zcash songs created with AI and shared for download.
+Collection of Zcash songs created with AI by Zcash Brasil design team and shared for download.
 
 ## About
 
